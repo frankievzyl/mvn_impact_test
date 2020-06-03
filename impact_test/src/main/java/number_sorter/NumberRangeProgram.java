@@ -1,3 +1,6 @@
+/**
+ * @author Franco van Zyl
+ */
 package number_sorter;
 
 import java.util.ArrayList;
